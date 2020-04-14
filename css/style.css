@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.navbar {
+  background-color: #fbfbfb;
+}
+.navbar-toggler-icon {
+  color: black;
+}
+.header-phone {
+  color: #1f1f24;
+  font-size: 25px;
+  font-weight: 700;
+  padding: 0 15px;
+  text-decoration: none;
+}
+.header-button {
+  margin: 0 15px;
+}
+.nav-item a {
+  color: #1f1f24;
+  font-size: 16px;
+  font-weight: 400;
+  padding: 10px 15px
+}
+.nav-item a:hover {
+  text-decoration: none;
+  outline: 1px solid #fc557c;
+  color: #fc557c;
+}
+.nav-item a:focus {
+  text-decoration: none;
+  outline: 1px solid #fc557c;
+  background-color: #fc557c;
+  color: white;
+}
+.aboutme {
+  background-color: #fbfbfb;
+  height: 698px;
+}
+.title {
+  padding-top: 208px;
+}
+.title h1 {
+  color: #1f1f24;
+  font-size: 80px;
+  font-weight: 400;
+}
+.title p {
+  color: #8993ad;
+  font-size: 25px;
+  font-weight: 400;
+  padding-top: 22px;
+}
+.title button {
+  background-color: #ff4e2e;
+  padding: 10px 25px;
+  color: white;
+  border: none;
+  font-size: 18px;
+  font-weight: 400;
+  margin-top: 48px;
+}
+.aboutmeimg {
+  padding-top: 61px;
+}
